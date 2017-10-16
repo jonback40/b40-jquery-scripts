@@ -1,0 +1,22 @@
+{
+  "name": "b40-jquery-scripts",
+  "version": "1.0.0",
+  "description": "Various jQuery scripts used within JavelinCMS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/mattmilburn/b40-jquery-scripts#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattmilburn/b40-jquery-scripts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mattmilburn/b40-jquery-scripts/issues"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Matt Milburn",
+  "license": "UNLICENSED"
+}
